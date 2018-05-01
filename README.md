@@ -21,3 +21,6 @@ Algorithm:-
 7.Soon you will notice an interesting pattern from the points.
 
 
+<img width="229" alt="triangle1" src="https://user-images.githubusercontent.com/38308057/39476737-aaa9bb2a-4d7a-11e8-9af4-bfee2310125e.PNG">
+<img width="195" alt="triangle2" src="https://user-images.githubusercontent.com/38308057/39476749-b39f079e-4d7a-11e8-8f30-3658ef1d7883.PNG">
+<img width="190" alt="triangle3" src="https://user-images.githubusercontent.com/38308057/39476756-bc03147a-4d7a-11e8-8fac-35e4cc4dd504.PNG">
