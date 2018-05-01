@@ -5,6 +5,7 @@ Link:-https://www.youtube.com/watch?v=kbKtFN71Lfs
 I tried to do the same using codes
 
 Algorithm:-
+
 1.Take three points to form a triangle
 
 2.Randomly select a starting point
